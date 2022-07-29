@@ -1,0 +1,15 @@
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\workgroup.csproj.AssemblyReference.cache
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\workgroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\workgroup.AssemblyInfoInputs.cache
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\workgroup.AssemblyInfo.cs
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\workgroup.csproj.CoreCompileInputs.cache
+C:\Users\andys\source\repos\trabajo grupal\workgroup\bin\Debug\net6.0\workgroup.exe
+C:\Users\andys\source\repos\trabajo grupal\workgroup\bin\Debug\net6.0\workgroup.deps.json
+C:\Users\andys\source\repos\trabajo grupal\workgroup\bin\Debug\net6.0\workgroup.runtimeconfig.json
+C:\Users\andys\source\repos\trabajo grupal\workgroup\bin\Debug\net6.0\workgroup.dll
+C:\Users\andys\source\repos\trabajo grupal\workgroup\bin\Debug\net6.0\workgroup.pdb
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\workgroup.dll
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\refint\workgroup.dll
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\workgroup.pdb
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\workgroup.genruntimeconfig.cache
+C:\Users\andys\source\repos\trabajo grupal\workgroup\obj\Debug\net6.0\ref\workgroup.dll
